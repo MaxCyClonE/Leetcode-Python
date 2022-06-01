@@ -1,2 +1,2 @@
 # Leetcode-Python
-My solutions to the Leetcode problems.
+My study note and solutions to the Leetcode problems.
