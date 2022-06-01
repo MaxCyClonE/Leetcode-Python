@@ -1,1 +1,20 @@
 Generally, hash table is used to quickly determine whether an element is in a set.
+Use hashCode to turn xxx into 
+Map different inputs to unique, fixed-length values
+
+index = hashFunction(name)
+hashFunction = hashCode(name) % tableSize
+
+
+1. Hash Collisions
+ Different inputs get the same hash.
+ To address
+ (1) Open Hashing
+ (2) Linear Probing
+ 
+2. Three hash structure
+ (1) Array
+ (2) Set
+ (3) Map
+
+Hashing trades space for time.
